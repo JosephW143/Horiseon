@@ -10,7 +10,7 @@ but also by adding alt attributes to images as well as and giving the site a pro
 * CSS
 
 ## link to deployed website
-https://josephw143.github.io/ucf-week-one-challenge/
+https://josephw143.github.io/Horiseon/
 
 ## Screenshot
 ![picture of deployed webstie](./assets/images/webiste-sc.jpg)
